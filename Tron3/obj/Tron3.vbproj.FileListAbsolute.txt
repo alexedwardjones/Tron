@@ -1,0 +1,10 @@
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\obj\Debug\Tron3.exe
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\obj\Debug\Tron3.xml
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\obj\Debug\Tron3.pdb
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\bin\Debug\Tron3.exe
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\bin\Debug\Tron3.pdb
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\bin\Debug\Tron3.xml
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\obj\Debug\ResolveAssemblyReference.cache
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\obj\Debug\Tron3.Resources.resources
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\obj\Debug\Tron3.vbproj.GenerateResource.Cache
+S:\Departments\ICT\A LEVEL\Programming\Alex Jones\Tron3\Tron3\obj\Debug\Tron3.frmGame.resources
